@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2023-10-02T20:32:45.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Fpx72b_NRh7NgefsiPg1" version="22.0.1" type="device">
+  <diagram name="Page-1" id="X3mj-Sd7IAWZ5uJZ0RMq">
+    <mxGraphModel dx="733" dy="365" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="280" width="370" height="560" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-2" value="Ingresa tu Estatura" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484.38" y="390" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;CALCULADORA&amp;nbsp; IMC&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="462.5" y="340" width="157.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-5" value="Ingresa tu Peso" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484.38" y="450" width="125" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-7" value="25.34&lt;br&gt;Tienes Sobrepeso" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=21;labelBackgroundColor=#FFFF33;" vertex="1" parent="1">
+          <mxGeometry x="484.37" y="570" width="151.25" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-8" value="Calcular IMC" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="510" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-9" value="Otro Cálculo" style="rounded=1;fillColor=#0057D8;strokeColor=none;html=1;whiteSpace=wrap;fontColor=#ffffff;align=center;verticalAlign=middle;fontStyle=0;fontSize=12;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="510" width="86" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-12" value="Imagen Alusiva" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="526" y="680" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="570" as="sourcePoint" />
+            <mxPoint x="500" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-15" value="Color Alusivo al Valor del IMC&lt;br&gt;&lt;br&gt;Verde: Peso normal&lt;br&gt;Sobrepeso: Naranja&lt;br&gt;&lt;br&gt;Obesidad o Peso Bajo: Rojo" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="130" y="450" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ORVXXGzmm1yx7K_4Fg1u-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="680" as="sourcePoint" />
+            <mxPoint x="540" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-17" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="685" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-18" value="Imagen Representativa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-19" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;Calculadora IMC&lt;/h1&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Análisis de datos de entrada-proceso-salida&lt;/li&gt;&lt;li&gt;Tablas de requerimiento funcionales y no funcionales&lt;/li&gt;&lt;li&gt;Mapa de navegación&lt;/li&gt;&lt;li&gt;Mapa de interacción&lt;/li&gt;&lt;li&gt;Wireframe&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="20" width="420" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-20" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Imagenes de la App Corriendo&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="890" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ORVXXGzmm1yx7K_4Fg1u-21" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Reflexión personal de ambos integrantes del equipo&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="960" width="580" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
